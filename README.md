@@ -12,9 +12,17 @@ Research Trends in `LLM-guided Multimodal` Learning.
 	- in-context learning, instruction tuning
 	- ... 
 - Examples of `LLM-guided Multimodal Model` :
-	- OpenFlamingo, MiniGPT-4, Otter, InstructBILP, ...
+	- OpenFlamingo, MiniGPT-4, Otter, InstructBILP, BLIVA ...
 - Examples of `Evaluation on Multimodal LLM`:
 	- MultiInstruct, POPE, AttackVLM, ...
+
+## 2023 August
+
+- **BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions**. arXiv:2308.09936.
+
+  *Wenbo Hu, Yifan Xu, Yi Li, Weiyue Li, Zeyuan Chen, Zhuowen Tu.* [[Paper](https://arxiv.org/abs/2308.09936)] [[Code](https://github.com/mlpc-ucsd/BLIVA)]
+
+  `Backbone`:  Vicuna-7B and Flan-T5-XXL (11B).
 
 ## 2023 June
 
